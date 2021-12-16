@@ -4,3 +4,4 @@
 3. Created a new branch
 4. Edited a file
 5. Push changes back
+6. Made some changes
